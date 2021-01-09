@@ -112,7 +112,6 @@
           url:'/subpkg/search/search'
         })
       }
-      
     },
   }
 </script>
